@@ -25,3 +25,7 @@ Uses revenue forecasting to help leadership plan future business cycles confiden
 Enables targeted marketing by analyzing churn patterns and customer segments.
 
 Supports personalized engagement through detailed segment-level insights.
+
+Project Demo (Video)
+
+Video Link: Add your link here
